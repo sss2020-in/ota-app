@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://trial2000.coding.net/s/1de62f40-0e86-4ec2-87e0-7472c6497c2b</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://github.com/sss2020-in/ota-app/blob/master/AppIcon29x29.png</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://github.com/sss2020-in/ota-app/blob/master/AppIcon29x29.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.liguangming.Shadowrocket</string>
+               <key>bundle-version</key>
+               <string>2.1.56</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>shadowrocket</string>
+               <key>title</key>
+               <string>shadowrocket</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
