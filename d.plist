@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://coding-net-production-file-1257242599.cos.ap-shanghai.myqcloud.com/5391d800-d39b-11ea-83dd-25ffab2f6f97.ipa?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDay83lFmaS6Y4LTdzMVO1SdZOyJSNOYpr%26q-sign-time%3D1596352256%3B1596355856%26q-key-time%3D1596352256%3B1596355856%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%3Bresponse-expires%26q-signature%3D522d25ffd50037255797cd92f2ef2655e669c9c6&response-content-disposition=attachment%3Bfilename%3DShadowrocket2.1.56.ipa&response-expires=Tue%2C%2004%20Aug%202020%2019%3A10%3A56%20GMT</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://coding-net-production-file-1257242599.cos.ap-shanghai.myqcloud.com/f317c850-d3a8-11ea-83dd-25ffab2f6f97.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDay83lFmaS6Y4LTdzMVO1SdZOyJSNOYpr%26q-sign-time%3D1596352256%3B1596355856%26q-key-time%3D1596352256%3B1596355856%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%3Bresponse-expires%26q-signature%3Dba7bb5c3a7045ea327a373c193be8e8df47f07c8&response-content-disposition=attachment%3Bfilename%3DAppIcon29x29.png&response-expires=Tue%2C%2004%20Aug%202020%2019%3A10%3A56%20GMT</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://coding-net-production-file-1257242599.cos.ap-shanghai.myqcloud.com/f317c850-d3a8-11ea-83dd-25ffab2f6f97.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDay83lFmaS6Y4LTdzMVO1SdZOyJSNOYpr%26q-sign-time%3D1596352256%3B1596355856%26q-key-time%3D1596352256%3B1596355856%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%3Bresponse-expires%26q-signature%3Dba7bb5c3a7045ea327a373c193be8e8df47f07c8&response-content-disposition=attachment%3Bfilename%3DAppIcon29x29.png&response-expires=Tue%2C%2004%20Aug%202020%2019%3A10%3A56%20GMT</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.liguangming.Shadowrocket</string>
+               <key>bundle-version</key>
+               <string>2.1.56</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>shadowrocket</string>
+               <key>title</key>
+               <string>shadowrocket</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
