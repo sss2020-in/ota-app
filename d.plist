@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://caiyun.feixin.10086.cn/dl/035CtevSPRSlJ</string>
+                   <string>https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/PERSONCLOUD/bb2e0ed6-f52b-4da2-bb40-26e28f59e1c6.ipa?x-amz-UFID=31413110738655338&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-SHID=169701802&x-amz-FSIZE=21838312&Expires=1596326888&x-amz-UID=776740034&response-content-disposition=attachment%3Bfilename%3D%22rocket.ipa%22&AWSAccessKeyId=18bd696e8df5d7a48893&x-amz-limitrate=10240&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=WEB&Signature=SEz8Zfn3oLWAemdfFni3BtJrB08%3D</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://caiyun.feixin.10086.cn/dl/035CgRo8YrVwq</string>
+                   <string>https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/PERSONCLOUD/51f6b713-b15e-43c3-bf67-c748c09290e1.png?x-amz-UFID=81418110789255660&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-FSIZE=1885&Expires=1596327694&x-amz-UID=776740034&response-content-disposition=attachment%3Bfilename%3D%22AppIcon57x57.png%22&AWSAccessKeyId=18bd696e8df5d7a48893&x-amz-limitrate=10240&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=WEB&Signature=zOktAGd0%2Bgv61jwExkmLJezkzS8%3D</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://caiyun.feixin.10086.cn/dl/035CgRo8YrVwq</string>
+                   <string>https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/PERSONCLOUD/51f6b713-b15e-43c3-bf67-c748c09290e1.png?x-amz-UFID=81418110789255660&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-FSIZE=1885&Expires=1596327694&x-amz-UID=776740034&response-content-disposition=attachment%3Bfilename%3D%22AppIcon57x57.png%22&AWSAccessKeyId=18bd696e8df5d7a48893&x-amz-limitrate=10240&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=WEB&Signature=zOktAGd0%2Bgv61jwExkmLJezkzS8%3D</string>
                </dict>
            </array><key>metadata</key>
            <dict>
